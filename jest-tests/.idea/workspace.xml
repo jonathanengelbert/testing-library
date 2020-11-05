@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ead2f1-c2a8-4204-a1a0-b650a15e2e6d" name="test" comment="" />
+    <list id="6c3c36a3-9a76-4960-9220-d6361ed87749" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jt9lhycGkFo1OyoU6kSoTIsaTa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.Intro function">
+    <configuration name="Intro function" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utils/simpleFunctions.test.js" />
+      <test-names>
+        <test-name value="Intro function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Intro function.should not print if age is less than 0" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utils/simpleFunctions.test.js" />
+      <test-names>
+        <test-name value="Intro function" />
+        <test-name value="should not print if age is less than 0" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Intro function.should print &quot;Jon is 35 years old&quot;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utils/simpleFunctions.test.js" />
+      <test-names>
+        <test-name value="Intro function" />
+        <test-name value="should print &quot;Jon is 35 years old&quot;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Intro function" />
+        <item itemvalue="Jest.Intro function.should not print if age is less than 0" />
+        <item itemvalue="Jest.Intro function.should print &quot;Jon is 35 years old&quot;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <branch name="master" repository="$PROJECT_DIR$/.." />
+      <changelist id="6c3c36a3-9a76-4960-9220-d6361ed87749" name="Default Changelist" comment="" />
+      <created>1604612673428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604618931869</updated>
+      <workItem from="1604612674461" duration="5797000" />
+    </task>
+    <task active="true" id="LOCAL-00002" summary="test">
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <branch name="test" repository="$PROJECT_DIR$/.." />
+      <changelist id="20ead2f1-c2a8-4204-a1a0-b650a15e2e6d" name="test" comment="" />
+      <created>1604618931698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604618931869</updated>
+      <workItem from="1604618932645" duration="133000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1920" height="284" key="GridCell.Tab.0.bottom" timestamp="1604619023076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604619023076" />
+    <state width="1920" height="284" key="GridCell.Tab.0.center" timestamp="1604619023075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604619023075" />
+    <state width="1920" height="284" key="GridCell.Tab.0.left" timestamp="1604619023074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604619023074" />
+    <state width="1920" height="284" key="GridCell.Tab.0.right" timestamp="1604619023075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604619023075" />
+    <state x="698" y="348" width="513" height="336" key="SimpleOpenTaskDialog" timestamp="1604618931904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="348" width="513" height="336" key="SimpleOpenTaskDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604618931904" />
+    <state x="655" y="252" width="609" height="534" key="find.popup" timestamp="1604619011628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="252" width="609" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604619011628" />
+    <state x="609" y="241" width="700" height="530" key="recent.locations.popup" timestamp="1604618930105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="241" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604618930105" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1604619019955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604619019955" />
+  </component>
+</project>
