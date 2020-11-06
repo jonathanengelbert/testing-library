@@ -1,7 +1,7 @@
 export default function generateIntroduction(name, age) {
 
-    if(typeof name !== 'string') throw new Error('Name is not a string')
-    if(typeof age !== 'number') throw new Error('Age is not a number')
+    if(typeof name !== 'string') throw new Error(`${name} is not a string`)
+    if(typeof age !== 'number') throw new Error(`${age} is not a number`)
 
     if (age < 0) {
         return 'Not a valid age';
